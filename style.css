@@ -1,0 +1,11 @@
+/* Add custom styles for the stopwatch */
+
+#time-display {
+  font-size: 72px;
+  font-weight: bold;
+}
+
+.btn {
+  font-size: 24px;
+  margin: 10px;
+}
